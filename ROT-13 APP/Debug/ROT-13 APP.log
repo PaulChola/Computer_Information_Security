@@ -1,0 +1,6 @@
+﻿  ROT-13 APP.cpp
+C:\Users\OPEN FOR ALL\source\repos\ROT-13 APP\ROT-13 APP.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OPEN FOR ALL\source\repos\ROT-13 APP\ROT-13 APP.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OPEN FOR ALL\source\repos\ROT-13 APP\ROT-13 APP.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\OPEN FOR ALL\source\repos\ROT-13 APP\ROT-13 APP.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+  ROT-13 APP.vcxproj -> C:\Users\OPEN FOR ALL\source\repos\ROT-13 APP\Debug\ROT-13 APP.exe
